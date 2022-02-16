@@ -13,6 +13,6 @@ public class BotData {
             noTeamOnline = "", oneTeamOnline = "", pizzaNotification = "", awayMessage = "", pizzaTimerCommand = "",
             channelCounterPrefix = "", channelCounterSuffix = "";
     private int supportChannelId = 0, supportGroupId = 0, afkChannelId = 0, awayTime = 0, pizzaTime = 0,
-            counterChannelId = 0;
+            counterChannelId = 0, verifyGroupId = 0;
 
 }
